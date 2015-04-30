@@ -1,0 +1,100 @@
+body, html {
+	background-color : #f6f6f6;
+}
+#canvas {
+	background-color: #fff4db;
+	width: 400px;
+	height:  400px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 1px #8d8d8d; 
+}
+
+#toprow {
+	height: 290px;
+}
+
+#bigbox {
+	width: 290px;
+	height: 290px;
+}
+
+
+
+
+#mediumbox {
+	width: 100px;
+	height: 140px;
+}
+#middlerow {
+	width: 400px;
+	height: 10px;
+}
+#bottomrow {
+	height: 100px;
+}
+#lefttopcolumn {
+    width: 100px;
+}
+
+#bottomrightcolumn {
+    width: 30px;
+}
+#smallbox {
+    width: 100px;
+    height: 100px;
+}
+
+#widebox {
+    width: 250px;
+    height: 100px;
+}
+
+/*these are colors */
+.fuchsia {
+	background-color: #f4a460;
+}
+
+.aqua {
+	background-color: #fa8072;
+}
+.pink {
+	background-color: #ee3b3b;
+}
+.purple {
+	background-color: #dc143c;
+}
+.lime {
+	background-color: #cd853f;
+}
+.black {
+	background-color: #363636;
+	
+}
+
+.right {
+	float: right;
+}
+#tinybox {
+    width: 30px;
+    height: 45px;
+}
+/*these are dividers*/
+#divider1 {
+	height: 290px;
+	width: 10px;
+}
+#divider2{
+	height: 10px;
+	width: 100px;
+}
+#divider3 {
+    height: 100px;
+    width: 10px;
+}
+
+#divider4 {
+    height: 10px;
+    width: 30px;
+}
+
